@@ -6,7 +6,13 @@ public static void main(String[] args) {
 	
 	System.out.println("local master branch");
 	System.out.println("loacal master branch 2. commit");
+
 	System.out.println("local master 3. commit");
 	System.out.println("loacal master 3. commit");
+
+	
+	System.out.println("remote master branch");
+	System.out.println("remote master branch 1. commit");
+
 }
 }
